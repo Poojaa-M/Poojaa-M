@@ -16,7 +16,7 @@ I am currently pursuing my Pre final year in Artificial Intelligence and Data Sc
 
 
 
-[(![LeetCode Stats](https://leetcard.jacoblin.cool/Poojaa-M?theme=dark&font=Sumana))]
+(![LeetCode Stats](https://leetcard.jacoblin.cool/Poojaa-M?theme=dark&font=Sumana))
 
 
 
