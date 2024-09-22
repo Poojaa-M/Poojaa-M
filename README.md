@@ -17,6 +17,7 @@ I am currently pursuing my Pre final year in Artificial Intelligence and Data Sc
 
 
 [(![LeetCode Stats](https://leetcard.jacoblin.cool/Poojaa-M?theme=dark&font=Sumana))]
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Poojaa-M?theme=dark&font=Sumana)](https://leetcode.com/hareeshprogrammer)
 
 
 [![Poojaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Poojaa-M&bg_color=000000&color=f7e9f6&line=9e4c98&point=a691a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))]
