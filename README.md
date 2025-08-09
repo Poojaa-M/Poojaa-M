@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Poojaa M
 
-I am currently pursuing my final year in Artificial Intelligence and Data Science at Sri Sairam Engineering College.
+Final-year B.Tech student in Artificial Intelligence and Data Science at Sri Sairam Engineering College.
 
 - 🔭 Here's my [portfolio]                                                 
 - 💻 Detail-oriented developer with skills in Python, SQL, and C, passionate about building scalable software solutions.
