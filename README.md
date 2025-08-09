@@ -1,8 +1,7 @@
 ## Hi there 👋 It's me Poojaa M
 
 Final-year B.Tech student in Artificial Intelligence and Data Science at Sri Sairam Engineering College.
-
-- 🔭 Here's my [portfolio]                                                 
+                                                
 - 💻 Detail-oriented developer with skills in Python, SQL, and C, passionate about building scalable software solutions.
 - 🚀 Experienced in coding, debugging, and deploying apps with cloud & database integration.
 - 🤝 Strong collaborator with problem-solving mindset and agile project exposure.
